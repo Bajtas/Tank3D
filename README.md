@@ -11,5 +11,3 @@ Tank3D is a simple game made with OpenGL.
 Polish documentation: [Czytaj tutaj!](docs/README_POLISH.md)
 
 English documentation: [Read more words!](docs/README_ENGLISH.md)
-
-### Screenshots:
